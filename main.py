@@ -11,8 +11,8 @@ def main():
         batch=16,                        
         imgsz=640,                       
         optimizer='Adam',                
-        project='팀플',   
-        name='팀플',         
+        project='jaeyoung',   
+        name='jaeyoung',         
         device=0                         
     )
 
