@@ -1,0 +1,13 @@
+train: detection/train/images
+val: detection/valid/images
+test: detection/test/images
+
+nc: 1
+names: ['LicensePlate']
+
+roboflow:
+  workspace: hyunjin
+  project: korea-car-license-plate
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hyunjin/korea-car-license-plate/dataset/2
