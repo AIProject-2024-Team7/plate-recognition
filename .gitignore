@@ -1,1 +1,8 @@
-__pycache__/
+*.png
+datasets
+fonts
+license_plate
+license_plate_noisy
+recognition
+runs
+*.pt
